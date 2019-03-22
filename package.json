@@ -1,6 +1,6 @@
 {
-  "name": "npmjsgu",
-  "version": "1.0.0",
+  "name": "dao-aliyun-oss-webpack-plugin",
+  "version": "1.0.1",
   "description": "基于Webpack的Aliyun OSS上传工具",
   "main": "index.js",
   "scripts": {
