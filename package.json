@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/jsgu/dao-aliyun-oss-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/jsgu/dao-aliyun-oss-webpack-plugin#readme"
+  "homepage": "https://github.com/jsgu/dao-aliyun-oss-webpack-plugin#readme",
+  "devDependencies": {
+    "ali-oss": "^6.1.0"
+  }
 }
